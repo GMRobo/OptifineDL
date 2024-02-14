@@ -3,8 +3,7 @@ import linecache
 from termcolor import colored
 import requests
 import time
-from optipy import getUrl
-import time
+from optipy import getVersionList
 import os
 import glob
 import psutil
@@ -122,7 +121,7 @@ if dbug == 1:
 print (l3)
 
 while True:
-    data = getUrl(mcversion=str(version),  timeout=15) #single=True,
+    data = getVersionList(mc_version=str(version),  timeout=15) #single=True,
     if "408" not in data:
         if dbug == 1:
          print(data)
