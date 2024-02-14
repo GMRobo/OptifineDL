@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/LoryKiller/OptifineDL/">
+  <a href="https://github.com/GMRobo/OptifineDL/">
     <img src="https://i.imgur.com/ISS2tcM.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -62,15 +62,15 @@ If you've got any issuses open a new ticket in the issuses tab!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/LoryKiller/OptifineDL/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/LoryKiller/OptifineDL.svg?style=for-the-badge
-[forks-url]: https://github.com/LoryKiller/OptifineDL/network/members
-[stars-shield]: https://img.shields.io/github/stars/LoryKiller/OptifineDL.svg?style=for-the-badge
-[stars-url]: https://github.com/LoryKiller/OptifineDL/stargazers
-[issues-shield]: https://img.shields.io/github/issues/LoryKiller/OptifineDL.svg?style=for-the-badge
-[issues-url]: https://github.com/LoryKiller/OptifineDL/issues
-[license-shield]: https://img.shields.io/github/license/LoryKiller/OptifineDL.svg?style=for-the-badge
-[license-url]: https://github.com/LoryKiller/OptifineDL/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/GMRobo/OptifineDL/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/GMRobo/OptifineDL.svg?style=for-the-badge
+[forks-url]: https://github.com/GMRobo/OptifineDL/network/members
+[stars-shield]: https://img.shields.io/github/stars/GMRobo/OptifineDL.svg?style=for-the-badge
+[stars-url]: https://github.com/GMRobo/OptifineDL/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GMRobo/OptifineDL.svg?style=for-the-badge
+[issues-url]: https://github.com/GMRobo/OptifineDL/issues
+[license-shield]: https://img.shields.io/github/license/GMRobo/OptifineDL.svg?style=for-the-badge
+[license-url]: https://github.com/GMRobo/OptifineDL/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: https://i.imgur.com/rPwWizE.png
